@@ -1,0 +1,20 @@
+{
+  "name": "Sellio",
+  "short_name": "Sellio",
+  "icons": [
+    {
+      "src": "/images/Sellio.JPG",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/images/Sellio.JPG",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "theme_color": "#6366f1",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
